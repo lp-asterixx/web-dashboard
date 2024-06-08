@@ -10,9 +10,8 @@ A web interface for [Localpride](https://github.com/lp-asterixx/localpride)
 This tools is already installed in Localpride. But, if you want to reinstall or updating
 this tools, you can follow this install guide:
 ### Method 1: From Github
-- Go to [release]() page
-- Click ```localpride-latest.zip``` to start downloading
-- Extract the content to ```localpride\htdocs``` directory
+- Go the latest release [here](https/lp-asterixx/web-dashboard/releases)
+- Extract the content to ```htdocs``` or ```www``` folder in your webserver directory
 - Restart apache
 - Done
 
